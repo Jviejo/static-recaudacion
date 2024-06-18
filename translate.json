@@ -1,0 +1,922 @@
+{
+    "Ayuntamiento De Prueba": {
+        "es": "Ayuntamiento De Prueba",
+        "en": "Test Town Hall",
+        "ca": "Ajuntament De Prova"
+    },
+    "Adjunte Los Documentos Necesarios Para La Autoliquidación.": {
+        "es": "Adjunte Los Documentos Necesarios Para La Autoliquidación.",
+        "en": "Attach The Necessary Documents For The Settlement.",
+        "ca": "Adjunteu Els Documents Necessaris Per A La Liquidació."
+    },
+    "Agua": {
+        "es": "Agua",
+        "en": "Water",
+        "ca": "Aigua"
+    },
+    "Alta Persona": {
+        "es": "Alta Persona",
+        "en": "Register Person",
+        "ca": "Alta Persona"
+    },
+    "Aquí Podrás Autoliquidar Tus Impuestos": {
+        "es": "Aquí Podrás Autoliquidar Tus Impuestos",
+        "en": "Here You Can Settle Your Taxes",
+        "ca": "Aquí Podràs Autoliquidar Els Teus Impostos"
+    },
+    "Aviso Legal Y Uso De Cookies": {
+        "es": "Aviso Legal Y Uso De Cookies",
+        "en": "Legal Notice And Cookie Use",
+        "ca": "Avís Legal I Ús De Cookies"
+    },
+    "AÑO": {
+        "es": "Año",
+        "en": "Year",
+        "ca": "Any"
+    },
+    "brutos": {
+        "es": "Ingresos Brutos",
+        "en": "Gross Income",
+        "ca": "Ingressos Bruts"
+    },
+    "Carga Fichero Fecha Tipo Codigo Descripcion": {
+        "es": "Carga Fichero Fecha Tipo Codigo Descripcion",
+        "en": "Load File Date Type Code Description",
+        "ca": "Càrrega Fitxer Data Tipus Codi Descripció"
+    },
+    "Carga Personas": {
+        "es": "Carga Personas",
+        "en": "Load People",
+        "ca": "Càrrega Persones"
+    },
+    "Cargar Nombre Del Documento Eliminar": {
+        "es": "Cargar Nombre Del Documento Eliminar",
+        "en": "Load Document Name Delete",
+        "ca": "Carregar Nom Del Document Esborrar"
+    },
+    "Cerrar Sesión": {
+        "es": "Cerrar Sesión",
+        "en": "Log Out",
+        "ca": "Tancar Sessió"
+    },
+    "Certificado Digital": {
+        "es": "Certificado Digital",
+        "en": "Digital Certificate",
+        "ca": "Certificat Digital"
+    },
+    "Company Name": {
+        "es": "Company Name",
+        "en": "Company Name",
+        "ca": "Nom De La Companyia"
+    },
+    "Concepto": {
+        "es": "Concepto",
+        "en": "Concept",
+        "ca": "Concepte"
+    },
+    "Continuar": {
+        "es": "Continuar",
+        "en": "Continue",
+        "ca": "Continuar"
+    },
+    "Crear Autoliquidación": {
+        "es": "Crear Autoliquidación",
+        "en": "Create Settlement",
+        "ca": "Crear Autoliquidació"
+    },
+    "Crear Persona": {
+        "es": "Crear Persona",
+        "en": "Create Person",
+        "ca": "Crear Persona"
+    },
+    "Direccion": {
+        "es": "Dirección",
+        "en": "Address",
+        "ca": "Direcció"
+    },
+    "Dp": {
+        "es": "Código Postal",
+        "en": "Postal Code",
+        "ca": "Codi Postal"
+    },
+    "Datos Autoliquidacion": {
+        "es": "Datos Autoliquidacion",
+        "en": "Self-assessment Data",
+        "ca": "Dades Autoliquidació"
+    },
+    "Deducible": {
+        "es": "Deducible",
+        "en": "Deductible",
+        "ca": "Deductible"
+    },
+    "Descripcion": {
+        "es": "Descripcion",
+        "en": "Description",
+        "ca": "Descripció"
+    },
+    "Descripcion Del Fichero": {
+        "es": "Descripcion Del Fichero",
+        "en": "File Description",
+        "ca": "Descripció Del Fitxer"
+    },
+    "Email": {
+        "es": "Email",
+        "en": "Email",
+        "ca": "Correu Electrònic"
+    },
+    "Electricidad": {
+        "es": "Electricidad",
+        "en": "Electricity",
+        "ca": "Electricitat"
+    },
+    "Electricidad Y Gas": {
+        "es": "Electricidad Y Gas",
+        "en": "Electricity And Gas",
+        "ca": "Electricitat I Gas"
+    },
+    "Empezar con tu mail": {
+        "es": "Empezar con tu mail",
+        "en": "Start with your email",
+        "ca": "Comença amb el teu correu electrònic"
+    },
+    "Fichero": {
+        "es": "Fichero",
+        "en": "File",
+        "ca": "Fitxer"
+    },
+    "Ficheroninguno Archivo Selec.": {
+        "es": "Ficheroninguno Archivo Selec.",
+        "en": "Filenone Selected.",
+        "ca": "Fitxerningú Arxiu Seleccionat."
+    },
+    "Gas": {
+        "es": "Gas",
+        "en": "Gas",
+        "ca": "Gas"
+    },
+    "Importe": {
+        "es": "Importe",
+        "en": "Amount",
+        "ca": "Import"
+    },
+    "Intereses": {
+        "es": "Intereses",
+        "en": "Interests",
+        "ca": "Interessos"
+    },
+    "Introduce Tu Mail": {
+        "es": "Introduce Tu Mail",
+        "en": "Enter Your Email",
+        "ca": "Introdueix El Teu Correu"
+    },
+    "Localidad": {
+        "es": "Localidad",
+        "en": "Locality",
+        "ca": "Localitat"
+    },
+    "La Facturación Es Obligatoria": {
+        "es": "La Facturación Es Obligatoria",
+        "en": "Billing Is Mandatory",
+        "ca": "La Facturació És Obligatòria"
+    },
+    "Legal": {
+        "es": "Legal",
+        "en": "Legal",
+        "ca": "Legal"
+    },
+    "Lista De Personas": {
+        "es": "Lista De Personas",
+        "en": "List Of People",
+        "ca": "Llista De Persones"
+    },
+    "Los Marcados Con Un \"*\" Son Campos Obligatorios.": {
+        "es": "Los Marcados Con Un \"*\" Son Campos Obligatorios.",
+        "en": "Those Marked With An \"*\" Are Mandatory Fields.",
+        "ca": "Els Marcats Amb Un \"*\" Són Camps Obligatoris."
+    },
+    "Nif": {
+        "es": "Nif",
+        "en": "Tax Identification Number",
+        "ca": "Nif"
+    },
+    "Nombre": {
+        "es": "Nombre",
+        "en": "Name",
+        "ca": "Nom"
+    },
+    "Ninguno Archivo Selec.": {
+        "es": "Ninguno Archivo Selec.",
+        "en": "No File Selected.",
+        "ca": "Cap Arxiu Seleccionat."
+    },
+    "No Tienes Valores.": {
+        "es": "No Tienes Valores.",
+        "en": "You Have No Values.",
+        "ca": "No Tens Valors."
+    },
+    "Nueva Autoliquidación": {
+        "es": "Nueva Autoliquidación",
+        "en": "New Self-assessment",
+        "ca": "Nova Autoliquidació"
+    },
+    "Nuevapersona": {
+        "es": "Nuevapersona",
+        "en": "NewPerson",
+        "ca": "NovaPersona"
+    },
+    "Nuevo Fichero": {
+        "es": "Nuevo Fichero",
+        "en": "New File",
+        "ca": "Nou Fitxer"
+    },
+    "O Continua Con:": {
+        "es": "O Continua Con:",
+        "en": "Or Continue With:",
+        "ca": "O Continua Amb:"
+    },
+    "Provincia": {
+        "es": "Provincia",
+        "en": "Province",
+        "ca": "Província"
+    },
+    "Pagar Un Recibo": {
+        "es": "Pagar Un Recibo",
+        "en": "Pay A Receipt",
+        "ca": "Pagar Un Rebut"
+    },
+    "PERIODO": {
+        "es": "Periodo",
+        "en": "Period",
+        "ca": "Període"
+    },
+    "Personas": {
+        "es": "Personas",
+        "en": "People",
+        "ca": "Persones"
+    },
+    "Política De Privacidad": {
+        "es": "Política De Privacidad",
+        "en": "Privacy Policy",
+        "ca": "Política De Privacitat"
+    },
+    "Por Fuera De Plazo": {
+        "es": "Por Fuera De Plazo",
+        "en": "Out Of Deadline",
+        "ca": "Fora De Termini"
+    },
+    "Privacidad": {
+        "es": "Privacidad",
+        "en": "Privacy",
+        "ca": "Privacitat"
+    },
+    "Referencia Del Recibo": {
+        "es": "Referencia Del Recibo",
+        "en": "Receipt Reference",
+        "ca": "Referència Del Rebut"
+    },
+    "Requisitos Técnicos": {
+        "es": "Requisitos Técnicos",
+        "en": "Technical Requirements",
+        "ca": "Requisits Tècnics"
+    },
+    "Seleccione Y Complete Los Datos Del Concepto.": {
+        "es": "Seleccione y complete los datos del concepto.",
+        "en": "Select and complete the concept data.",
+        "ca": "Seleccioneu i completeu les dades del concepte."
+    },
+    "Subir Un Fichero": {
+        "es": "Subir Un Fichero",
+        "en": "Upload A File",
+        "ca": "Pujar Un Fitxer"
+    },
+    "Submit Autoliquidación": {
+        "es": "Submit Autoliquidación",
+        "en": "Submit Self-assessment",
+        "ca": "Envia Autoliquidació"
+    },
+    "Total": {
+        "es": "Total",
+        "en": "Total",
+        "ca": "Total"
+    },
+    "Tasas": {
+        "es": "Tasas",
+        "en": "Fees",
+        "ca": "Taxes"
+    },
+    "Telecomunicaciones": {
+        "es": "Telecomunicaciones",
+        "en": "Telecommunications",
+        "ca": "Telecomunicacions"
+    },
+    "Tipo": {
+        "es": "Tipo",
+        "en": "Type",
+        "ca": "Tipus"
+    },
+    "TIPOSUMINISTRO": {
+        "es": "Tipo de Suministro",
+        "en": "Supply Type",
+        "ca": "Tipus de Subministrament"
+    },
+    "Valores De La Persona": {
+        "es": "Valores De La Persona",
+        "en": "Person's Values",
+        "ca": "Valors De La Persona"
+    },
+    "Web": {
+        "es": "Web",
+        "en": "Web",
+        "ca": "Web"
+    },
+    "Factura": {
+        "es": "Factura",
+        "en": "Invoice",
+        "ca": "Factura"
+    },
+    "Iniciar sesión": {
+        "es": "Iniciar sesión",
+        "en": "Log In",
+        "ca": "Inicia sessió"
+    },
+    "Datos conexión": {
+        "es": "Datos conexión",
+        "en": "Connection Data",
+        "ca": "Dades de connexió"
+    },
+    "Usuario": {
+        "es": "Usuario",
+        "en": "User",
+        "ca": "Usuari"
+    },
+    "Password": {
+        "es": "Contraseña",
+        "en": "Password",
+        "ca": "Contrasenya"
+    },
+    "Conectar": {
+        "es": "Conectar",
+        "en": "Connect",
+        "ca": "Connectar"
+    },
+    "Revise su correo e introduzca el código": {
+        "es": "Revise su correo e introduzca el código",
+        "en": "Check your email and enter the code",
+        "ca": "Reviseu el vostre correu i introduïu el codi"
+    },
+    "1. Datos personales:": {
+        "es": "1. Datos identificativos del contribuyente:",
+        "en": "1. Personal data:",
+        "ca": "1. Dades identificatives del contribuent:"
+    },
+    "Datos personales": {
+        "es": "Datos personales:",
+        "en": "Personal data:",
+        "ca": "Dades personals:"
+    },
+    "Los marcados con un \"*\" son campos obligatorios.": {
+        "es": "Los marcados con un \"*\" son campos obligatorios.",
+        "en": "Fields marked with an \"*\" are mandatory.",
+        "ca": "Els camps marcats amb un \"*\" són obligatoris."
+    },
+    "2. Datos del concepto:": {
+        "es": "2. Datos de la Autoliquidación:",
+        "en": "2. Data of the Self-assessment:",
+        "ca": "2. Dades de l'Autoliquidació:"
+    },
+    "Seleccione": {
+        "es": "Seleccione",
+        "en": "Select",
+        "ca": "Seleccioneu"
+    },
+    "Autoliquidar": {
+        "es": "Autoliquidar",
+        "en": "Self-assessment",
+        "ca": "Autoliquidar"
+    },
+    "Pagar referencia": {
+        "es": "Pagar referencia",
+        "en": "Pay reference",
+        "ca": "Pagar referència"
+    },
+    "Valores": {
+        "es": "Valores",
+        "en": "Values",
+        "ca": "Valors"
+    },
+    "Perfil": {
+        "es": "Perfil",
+        "en": "Profile",
+        "ca": "Perfil"
+    },
+    "Ficheros": {
+        "es": "Ficheros",
+        "en": "Files",
+        "ca": "Fitxers"
+    },
+    "Lista de personas": {
+        "es": "Lista de personas",
+        "en": "List of people",
+        "ca": "Llista de persones"
+    },
+    "No se han encontrado resultados.": {
+        "es": "No se han encontrado resultados.",
+        "en": "No results found.",
+        "ca": "No s'han trobat resultats."
+    },
+    "Teléfono": {
+        "es": "Teléfono",
+        "en": "Phone",
+        "ca": "Telèfon"
+    },
+    "Ir a la selección": {
+        "es": "Ir a la selección",
+        "en": "Go to selection",
+        "ca": "Anar a la selecció"
+    },
+    "Aviso legal": {
+        "es": "Aviso legal",
+        "en": "Legal Notice",
+        "ca": "Avís legal"
+    },
+    "Crear": {
+        "es": "Crear ",
+        "en": "Create ",
+        "ca": "Crear "
+    },
+    "Dar de alta una persona": {
+        "es": "Dar de alta una persona",
+        "en": "Register a person",
+        "ca": "Donar d'alta una persona"
+    },
+    "Subir fichero": {
+        "es": "Subir fichero",
+        "en": "Upload file",
+        "ca": "Pujar fitxer"
+    },
+    "Ficheros subidos": {
+        "es": "Ficheros subidos",
+        "en": "Uploaded files",
+        "ca": "Fitxers pujats"
+    },
+    "Fecha": {
+        "es": "Fecha",
+        "en": "Date",
+        "ca": "Data"
+    },
+    "Contador": {
+        "es": "Contador",
+        "en": "Counter",
+        "ca": "Comptador"
+    },
+    "Tipo de fichero": {
+        "es": "Tipo de fichero",
+        "en": "File type",
+        "ca": "Tipus de fitxer"
+    },
+    "Seleccionar tipo de documento": {
+        "es": "Seleccionar tipo de documento",
+        "en": "Select document type",
+        "ca": "Seleccionar tipus de document"
+    },
+    "Submit": {
+        "es": "Enviar",
+        "en": "Submit",
+        "ca": "Enviar"
+    },
+    "Plantillas Email": {
+        "es": "Plantillas Email",
+        "en": "Email Templates",
+        "ca": "Plantilles Email"
+    },
+    "Contribuyentes": {
+        "es": "Contribuyentes",
+        "en": "Contributors",
+        "ca": "Contribuents"
+    },
+    "Otros": {
+        "es": "Otros",
+        "en": "Others",
+        "ca": "Altres"
+    },
+    "El fichero se ha subido correctamente": {
+        "es": "El fichero se ha subido correctamente",
+        "en": "The file has been uploaded successfully",
+        "ca": "El fitxer s'ha pujat correctament"
+    },
+    "Error": {
+        "es": "Error",
+        "en": "Error",
+        "ca": "Error"
+    },
+    "1. Introduzca el número de referencia del recibo:": {
+        "es": "1. Introduzca el número de referencia del recibo:",
+        "en": "1. Enter the receipt reference number:",
+        "ca": "1. Introduïu el número de referència del rebut:"
+    },
+    "Referencia del recibo": {
+        "es": "Referencia del recibo",
+        "en": "Receipt reference",
+        "ca": "Referència del rebut"
+    },
+    "2. Introduzca el importe del recibo:": {
+        "es": "2. Introduzca el importe del recibo:",
+        "en": "2. Enter the receipt amount:",
+        "ca": "2. Introduïu l'import del rebut:"
+    },
+    "Información recibo": {
+        "es": "Información recibo",
+        "en": "Receipt information",
+        "ca": "Informació del rebut"
+    },
+    "Estado:": {
+        "es": "Estado:",
+        "en": "Status:",
+        "ca": "Estat:"
+    },
+    "Fecha de creación de recibo": {
+        "es": "Fecha de creación de recibo",
+        "en": "Receipt creation date",
+        "ca": "Data de creació del rebut"
+    },
+    "Fecha último día de pago": {
+        "es": "Fecha último día de pago",
+        "en": "Last payment day date",
+        "ca": "Data últim dia de pagament"
+    },
+    "Pagar con Stripe": {
+        "es": "Pagar con Stripe",
+        "en": "Pay with Stripe",
+        "ca": "Pagar amb Stripe"
+    },
+    "Pendiente": {
+        "es": "Pendiente",
+        "en": "Pending",
+        "ca": "Pendent"
+    },
+    "Selecciona un mail": {
+        "es": "Selecciona un mail",
+        "en": "Select an email",
+        "ca": "Selecciona un correu"
+    },
+    "Pagado": {
+        "es": "Pagado",
+        "en": "Paid",
+        "ca": "Pagat"
+    },
+    "Esta persona no tiene referencias creadas": {
+        "es": "Esta persona no tiene referencias creadas.",
+        "en": "This person does not have any created references.",
+        "ca": "Aquesta persona no té referències creades."
+    },
+    "Número": {
+        "es": "Número",
+        "en": "Number",
+        "ca": "Número"
+    },
+    "Estado": {
+        "es": "Estado",
+        "en": "Status",
+        "ca": "Estat"
+    },
+    "Identificación": {
+        "es": "Identificación",
+        "en": "Identification",
+        "ca": "Identificació"
+    },
+    "Emisora": {
+        "es": "Emisora",
+        "en": "Issuer",
+        "ca": "Emissora"
+    },
+    "Fecha último día pago": {
+        "es": "Fecha último día pago",
+        "en": "Last payment day date",
+        "ca": "Data últim dia de pagament"
+    },
+    "referencias creadas": {
+        "es": "Referencias creadas",
+        "en": "Created references",
+        "ca": "Referències creades"
+    },
+    "Resumen total": {
+        "es": "Resumen total",
+        "en": "Total summary",
+        "ca": "Resum total"
+    },
+    "Resumen total por año": {
+        "es": "Resumen total por año",
+        "en": "Total summary by year",
+        "ca": "Resum total per any"
+    },
+    "Resumen total por concepto": {
+        "es": "Resumen total por concepto",
+        "en": "Total summary by concept",
+        "ca": "Resum total per concepte"
+    },
+    "Resumen total por año y concepto": {
+        "es": "Resumen total por año y concepto",
+        "en": "Total summary by year and concept",
+        "ca": "Resum total per any i concepte"
+    },
+    "Año y Concepto": {
+        "es": "Año y Concepto",
+        "en": "Year and Concept",
+        "ca": "Any i Concepte"
+    },
+    "Acciones globales": {
+        "es": "Acciones globales",
+        "en": "Global actions",
+        "ca": "Accions globals"
+    },
+    "Acciones persona": {
+        "es": "Acciones persona",
+        "en": "Person actions",
+        "ca": "Accions persona"
+    },
+    "Editar datos personales": {
+        "es": "Editar datos personales",
+        "en": "Edit personal data",
+        "ca": "Edita les dades personals"
+    },
+    "Guardar cambios": {
+        "es": "Guardar cambios",
+        "en": "Save changes",
+        "ca": "Desa els canvis"
+    },
+    "Cambia los campos que quieras editar y guarda los datos:": {
+        "es": "Cambia los campos que quieras editar y guarda los datos:",
+        "en": "Change the fields you want to edit and save the data:",
+        "ca": "Canvia els camps que vulguis editar i desa les dades:"
+    },
+    "Perfil Editado": {
+        "es": "Perfil Editado",
+        "en": "Profile Edited",
+        "ca": "Perfil Editat"
+    },
+    "Compruebe los cambios.": {
+        "es": "Compruebe los cambios.",
+        "en": "Check the changes.",
+        "ca": "Comprova els canvis."
+    },
+    "Modificacion no realizada": {
+        "es": "Modificacion no realizada.",
+        "en": "Modification not made.",
+        "ca": "Modificació no realitzada."
+    },
+    "Enviar aviso": {
+        "es": "Enviar aviso",
+        "en": "Send notice",
+        "ca": "Enviar avís"
+    },
+    "No has seleccionado ninguna persona": {
+        "es": "No has seleccionado ninguna persona",
+        "en": "You have not selected any person",
+        "ca": "No has seleccionat cap persona"
+    },
+    "Volver a la búsqueda de personas": {
+        "es": "Volver a la búsqueda de personas",
+        "en": "Return to people search",
+        "ca": "Tornar a la cerca de persones"
+    },
+    "Personas seleccionadas": {
+        "es": "Personas seleccionadas",
+        "en": "Selected people",
+        "ca": "Persones seleccionades"
+    },
+    "Aviso de Inclusión": {
+        "es": "Aviso de Inclusión",
+        "en": "Inclusion Notice",
+        "ca": "Avís d'Inclusió"
+    },
+    "Aviso Presentación Último Periodo": {
+        "es": "Aviso Presentación Último Periodo",
+        "en": "Last Period Presentation Notice",
+        "ca": "Avís Presentació Últim Període"
+    },
+    "Aviso Presentación": {
+        "es": "Aviso Presentación",
+        "en": "Presentation Notice",
+        "ca": "Avís Presentació"
+    },
+    "Aviso Presentación y Pago": {
+        "es": "Aviso Presentación y Pago",
+        "en": "Presentation and Payment Notice",
+        "ca": "Avís Presentació i Pagament"
+    },
+    "Carta de Pago": {
+        "es": "Carta de Pago",
+        "en": "Payment Letter",
+        "ca": "Carta de Pagament"
+    },
+    "Referencia": {
+        "es": "Referencia",
+        "en": "Reference",
+        "ca": "Referència"
+    },
+    "Detalles del valor": {
+        "es": "Detalles del valor",
+        "en": "Details of the value",
+        "ca": "Detalls del valor"
+    },
+    "Emisión": {
+        "es": "Emisión",
+        "en": "Emission",
+        "ca": "Emissió"
+    },
+    "Provincia y CP": {
+        "es": "Provincia y CP",
+        "en": "Province and Postal Code",
+        "ca": "Província i Codi Postal"
+    },
+    "Direccion y Localidad": {
+        "es": "Dirección y Localidad",
+        "en": "Address and Locality",
+        "ca": "Adreça i Localitat"
+    },
+    "Contacto": {
+        "es": "Contacto",
+        "en": "Contact",
+        "ca": "Contacte"
+    },
+    "Referencias creadas con este valor:": {
+        "es": "Referencias creadas con este valor:",
+        "en": "References created with this value:",
+        "ca": "Referències creades amb aquest valor:"
+    },
+    "Pagar con Redsys": {
+        "es": "Pagar con Redsys",
+        "en": "Pay with Redsys",
+        "ca": "Pagar amb Redsys"
+    },
+    "ok": {
+        "es": "Transaccion realizada con exito",
+        "en": "Transaction completed successfully",
+        "ca": "Transacció realitzada amb èxit"
+    },
+    "ko": {
+        "es": "Fallo en la trasaccion",
+        "en": "Fail in Transaction",
+        "ca": "Error en la transacció"
+    },
+    "fechaSimulacion": {
+        "es": "Fecha Declaración",
+        "en": "Declaration Date",
+        "ca": "Data Declaració"
+    },
+    "base": {
+        "es": "Base imponible",
+        "en": "Taxable base",
+        "ca": "Base imposable"
+    },
+    "cuota": {
+        "es": "Cuota",
+        "en": "Fee",
+        "ca": "Quota"
+    },
+    "recargo": {
+        "es": "% recargo",
+        "en": "% surcharge",
+        "ca": "% recàrrec"
+    },
+    "importeRecargo": {
+        "es": "Importe Recargo",
+        "en": "Surcharge Amount",
+        "ca": "Import Recàrrec"
+    },
+    "intereses": {
+        "es": "Intereses de demora",
+        "en": "Late payment interest",
+        "ca": "Interessos de demora"
+    },
+    "deducible": {
+        "es": "Gastos deducibles",
+        "en": "Deductible expenses",
+        "ca": "Despeses deduïbles"
+    },
+    "recargo reducido": {
+        "es": "recargo reducido",
+        "en": "reduced surcharge",
+        "ca": "recàrrec reduït"
+    },
+    "reduccion": {
+        "es": "reduccion 25%",
+        "en": "reduction 25%",
+        "ca": "reducció 25%"
+    },
+    "clave": {
+        "es": "Clave",
+        "en": "Key",
+        "ca": "Clau"
+    },
+    "Cookies": {
+        "es": "Cookies",
+        "en": "Cookies",
+        "ca": "Cookies"
+    },
+    "Accesibilidad": {
+        "es": "Accesibilidad",
+        "en": "Accessibility",
+        "ca": "Accessibilitat"
+    },
+    "Cobros": {
+        "es": "Cobros",
+        "en": "Collections",
+        "ca": "Cobraments"
+    },
+    "Siglas": {
+        "es": "Siglas",
+        "en": "Acronyms",
+        "ca": "Sigles"
+    },
+    "Datos del representante legal": {
+        "es": "Datos del representante legal",
+        "en": "Legal representative data",
+        "ca": "Dades del representant legal"
+    },
+    "eresRepresentante": {
+        "es": "¿Eres un representante autorizado?",
+        "en": "Are you an authorized representative?",
+        "ca": "Ets un representant autoritzat?"
+    },
+    "confirmaRellenaDatos": {
+        "es": "Confirma y rellena los datos",
+        "en": "Confirm and fill in the data",
+        "ca": "Confirma i omple les dades"
+    },
+    "datosAutoliquidacion": {
+        "es": "2. Datos de la Autoliquidación: Seleccione y complete los datos del concepto.",
+        "en": "2. Self-assessment data: Select and complete the concept data.",
+        "ca": "2. Dades de l'autoliquidació: Seleccioneu i completeu les dades del concepte."
+    },
+    "concepto": {
+        "es": "Concepto",
+        "en": "Concept",
+        "ca": "Concepte"
+    },
+    "icio": {
+        "es": "ICIO",
+        "en": "ICIO",
+        "ca": "ICIO"
+    },
+    "referenciaCatastral": {
+        "es": "1. Referencia Catastral:",
+        "en": "1. Cadastral Reference:",
+        "ca": "1. Referència Catastral:"
+    },
+    "referenciaCatastral2": {
+        "es": " Diríjase a la página oficial de catastro, introduzca los datos de la finca para obtener la referencia catastral e introduzca su valor.",
+        "en": " Go to the official cadastral page, enter the property data to obtain the cadastral reference and enter its value.",
+        "ca": " Dirigiu-vos a la pàgina oficial del cadastre, introduïu les dades de la finca per obtenir la referència catastral i introduïu el seu valor."
+    },
+    "sedeElectronicaCatastro": {
+        "es": "Sede Electrónica del Catastro",
+        "en": "Electronic Headquarters of the Cadastre",
+        "ca": "Seu Electrònica del Cadastre"
+    },
+    "descripcion": {
+        "es": "2. Descripción: ",
+        "en": "2. Description:",
+        "ca": "2. Descripció:"
+    },
+    "descripcion2": {
+        "es": "Introduzca una breve descripción de la obra que va realizar",
+        "en": " Enter a brief description of the work you are going to do",
+        "ca": " Introduïu una breu descripció de l'obra que aneu a realitzar"
+    },
+    "fecha": {
+        "es": "3. Fecha: ",
+        "en": "3. Date: ",
+        "ca": "3. Data: "
+    },
+    "fecha2": {
+        "es": "Introduzca la fecha de expedición de la carta",
+        "en": "Enter the date of issuance of the letter",
+        "ca": "Introduïu la data d'expedició de la carta"
+    },
+    "documento": {
+        "es": "4. Documento: ",
+        "en": "4. Document: ",
+        "ca": "4. Document: "
+    },
+    "documento2": {
+        "es": "Introduzca un documento.",
+        "en": "Enter a document.",
+        "ca": "Introduïu un document."
+    },
+    "ningunArchivoSeleccionado": {
+        "es": "Ninguno archivo selec.",
+        "en": "No file selected.",
+        "ca": "Cap fitxer seleccionat."
+    },
+    "importe": {
+        "es": "5. Importe",
+        "en": "5. Amount",
+        "ca": "5. Import"
+    },
+    "bonificaciones": {
+        "es": "6. Bonificaciones",
+        "en": "6. Bonuses",
+        "ca": "6. Bonificacions"
+    }
+}
